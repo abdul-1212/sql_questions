@@ -21,3 +21,7 @@ question 9
 -- select * from film where length = 185
 question 10
 -- select * from film where special_features = 'Deleted Scenes'
+question 15
+--select avg(length) from film;
+question 17
+--select * from film_text where description = 'robot';
