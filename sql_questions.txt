@@ -40,3 +40,10 @@ question 15 What is the average runtime of all films?
 
 question 17
 --select * from film_text where description = 'robot';
+
+question 19 Find the titles of all the horror movies
+select * from category where category_id = 11;
+select * from film_category where category_id = 11;
+
+question 20 List the full name of the staff member with the ID of 2.
+select first_name, last_name from staff where staff_id = 2
