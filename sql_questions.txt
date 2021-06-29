@@ -1,3 +1,23 @@
+question 1
 -- select actor_id from actor;
 -- SELECT	first_name from actor;
-
+question 2
+-- SELECT * from actor;
+-- select * from actor where first_name = 'john';
+question 3
+-- select * from actor where last_name = 'Neeson';
+question 4
+-- select * from actor where (actor_id % 10) = 0;
+question 5
+-- select * from film WHERE film_id = 100;
+question 6
+-- select * from film Where rating = 'R';
+question 7
+-- select * from film where rating <> 'R
+question 8 (unfinished)
+-- select min(length) from film;
+question 9
+-- select  max(length) from film;
+-- select * from film where length = 185
+question 10
+-- select * from film where special_features = 'Deleted Scenes'
